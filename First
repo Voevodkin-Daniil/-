@@ -1,0 +1,6 @@
+def main():
+    print('MY first gin-repo')
+
+
+if __name__ == '__main__':
+    main()
